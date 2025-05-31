@@ -1,4 +1,5 @@
 name: Run Node.js Script
+
 on:
   push:
     branches:
